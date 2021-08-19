@@ -11,10 +11,10 @@ Repository for storing my studies in programming language [Elixir](https://elixi
   - [Strings](https://github.com/edmilson-dk/learn-elixir/tree/main/basic-types/strings.exs)
   - [Floats](https://github.com/edmilson-dk/learn-elixir/tree/main/basic-types/float.exs)
 - [Collections](https://github.com/edmilson-dk/learn-elixir/tree/main/collections)
-  - [Lists](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/list.exs)
-  - [Maps](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/map.exs)
-  - [Tuples](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/tuple.exs)
-  - [Keyword list](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/keyword-list.exs)
+  - [Lists](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/lists.exs)
+  - [Tuples](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/tuples.exs)
+  - [Keyword list](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/keywords-lists.exs)
+  - [Maps](https://github.com/edmilson-dk/learn-elixir/tree/main/collections/maps.exs)
 
 <a id="license"></a>
 
